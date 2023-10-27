@@ -2,7 +2,7 @@
 
 ## Description:
 --------------
-The Linux Bash Update Script is a simple yet powerful tool designed to automate the process of updating package repositories on various Linux distributions. It's particularly useful for routine system maintenance tasks, ensuring your system is up to date with the latest security patches and software updates.
+The Linux Package Update Script is a simple yet powerful tool designed to automate the process of updating package repositories on various Linux distributions. It's particularly useful for routine system maintenance tasks, ensuring your system is up to date with the latest security patches and software updates.
 
 ## Usage:
 --------------
